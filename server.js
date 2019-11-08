@@ -13,7 +13,7 @@ app.get("/", (request, response) => {
 });
 app.listen(process.env.PORT);
 setInterval(() => {
-  http.get(`http://«”„ «·»—Êﬂ”.glitch.me`); //replace jagroshmusicbot with your project name »œ· jagroshmusicbot »Ì «”„ «·»—ÊÃﬂ  Õﬁﬂ
+  http.get(`http://jjjj.glitch.me`); //replace jagroshmusicbot with your project name √à√è√° jagroshmusicbot √à√≠ √á√ì√£ √á√°√à√ë√¶√å√ü√ä √ç√û√ü
 }, 280000); 
 var shell = require('shelljs'); 
 shell.exec('java -jar Toxic.jar')
